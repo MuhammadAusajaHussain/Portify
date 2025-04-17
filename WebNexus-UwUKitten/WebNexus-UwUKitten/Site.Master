@@ -1,0 +1,108 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebNexus_UwUKitten.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+
+    <!-- ✅ Tailwind CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+</head>
+
+<body class="bg-white text-gray-900 font-sans min-h-screen flex flex-col">
+
+    <form runat="server" class="flex-1">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+            </Scripts>
+        </asp:ScriptManager>
+
+        <!-- NAVBAR -->
+      <div class="bg-blue-800 p-3 shadow-md">
+    <div class="max-w-7xl mx-auto flex items-center justify-between">
+        <!-- Logo -->
+        <div class="flex items-center space-x-2">
+            <img src="<%= ResolveUrl("~/Images/logo.jpg") %>" alt="Logo" class="h-10 w-auto rounded shadow-md" />
+            <span class="text-white font-bold text-xl">WebNexus</span>
+        </div>
+
+        <!-- Navigation Links -->
+        <div class="flex justify-center space-x-6">
+            <asp:HyperLink 
+                ID="lnkHome" 
+                runat="server" 
+                CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" 
+                NavigateUrl="~/Pages/Home.aspx">Home</asp:HyperLink>
+
+            <asp:HyperLink 
+                ID="lnkAbout" 
+                runat="server" 
+                CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" 
+                NavigateUrl="~/Pages/About.aspx">About</asp:HyperLink>
+
+            <asp:HyperLink 
+                ID="lnkServices" 
+                runat="server" 
+                CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" 
+                NavigateUrl="~/Pages/Services.aspx">Services</asp:HyperLink>
+
+            <asp:HyperLink 
+                ID="lnkPortfolio" 
+                runat="server" 
+                CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" 
+                NavigateUrl="~/Pages/Portfolio.aspx">Portfolio</asp:HyperLink>
+
+            <asp:HyperLink 
+                ID="lnkTestimonials" 
+                runat="server" 
+                CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" 
+                NavigateUrl="~/Pages/Testimonials.aspx">Testimonials</asp:HyperLink>
+
+            <asp:HyperLink 
+                ID="lnkContact" 
+                runat="server" 
+                CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" 
+                NavigateUrl="~/Pages/Contact.aspx">Contact</asp:HyperLink>
+        </div>
+    </div>
+</div>
+
+
+        <!-- MAIN CONTENT -->
+        <div class="container mx-auto flex-1">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+
+        <!-- FOOTER -->
+        <div class="bg-gray-900 text-white p-4 px-6 mt-6 bottom-0 w-full h-[25vh]">
+            <div class="flex justify-between text-center">
+                <p class="mb-2">&copy; <%: DateTime.Now.Year %> - WebNexus</p>
+                <div class="flex justify-center space-x-4 text-sm">
+                    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" class="text-blue-400 hover:text-white transition">LinkedIn</a>
+                    <a href="https://github.com/your-github" target="_blank" class="text-blue-400 hover:text-white transition">GitHub</a>
+                </div>
+            </div>
+        </div>
+    </form>
+
+</body>
+</html>

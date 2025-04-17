@@ -1,0 +1,500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\pages\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\pages\\contact.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\contact.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\webnexus-uwukitten\\pages\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\projectmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\projectmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\servicesmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\servicesmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\appointmentmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\appointmentmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\addservice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\addservice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\webnexus-uwukitten\\pages\\testimonials.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\testimonials.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\webnexus-uwukitten\\pages\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\projectmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\projectmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\servicesmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\servicesmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\webnexus-uwukitten\\pages\\services.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\services.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\webnexus-uwukitten\\pages\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\pages\\testimonials.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\testimonials.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\pages\\portfolio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\portfolio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\addservice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\addservice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\pages\\services.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\services.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\appointmentmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\appointmentmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|c:\\users\\hp\\desktop\\muhammad_abdullah\\webnexus-uwukitten\\webnexus-uwukitten\\adminpages\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\adminpages\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\webnexus-uwukitten\\pages\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\webnexus-uwukitten\\pages\\portfolio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\portfolio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\webnexus-uwukitten\\pages\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\pages\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\webnexus-uwukitten\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB3B5105-7F4D-4AF4-8AC4-E47864A575BD}|WebNexus-UwUKitten\\WebNexus-UwUKitten.csproj|solutionrelative:webnexus-uwukitten\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Contact.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\Contact.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Contact.aspx.designer.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\Contact.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:38:00.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashBoard.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\DashBoard.aspx",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\DashBoard.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\DashBoard.aspx",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\DashBoard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T07:53:04.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectManagement.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\ProjectManagement.aspx",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\ProjectManagement.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\ProjectManagement.aspx",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\ProjectManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T07:53:36.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Contact.aspx.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\Contact.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:12:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicesManagement.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\ServicesManagement.aspx",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\ServicesManagement.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\ServicesManagement.aspx",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\ServicesManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T07:54:28.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\Login.aspx",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\Login.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\Login.aspx",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T07:52:44.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Contact.aspx",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\Contact.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Contact.aspx",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T05:31:33.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentManagement.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\AppointmentManagement.aspx",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\AppointmentManagement.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\AppointmentManagement.aspx",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\AppointmentManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T07:55:06.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddService.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\AddService.aspx",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\AddService.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\AddService.aspx",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\AddService.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T08:53:27.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Testimonials.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Testimonials.aspx",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\Testimonials.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Testimonials.aspx",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\Testimonials.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T05:31:53.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Home.aspx",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\Home.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Home.aspx",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T05:30:36.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectManagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\ProjectManagement.aspx.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\ProjectManagement.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\ProjectManagement.aspx.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\ProjectManagement.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:43:08.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServicesManagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\ServicesManagement.aspx.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\ServicesManagement.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\ServicesManagement.aspx.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\ServicesManagement.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:46:03.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Services.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Services.aspx",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\Services.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Services.aspx",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\Services.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T05:31:21.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\About.aspx",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\About.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\About.aspx",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T05:30:46.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Site.Master",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Site.Master",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Site.Master",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T07:32:56.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Testimonials.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Testimonials.aspx.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\Testimonials.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Testimonials.aspx.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\Testimonials.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:03:57.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Portfolio.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Portfolio.aspx",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\Portfolio.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Portfolio.aspx",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\Portfolio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-17T05:32:07.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashBoard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\DashBoard.aspx.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\DashBoard.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\DashBoard.aspx.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\DashBoard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:01:35.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\Login.aspx.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\Login.aspx.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:04:32.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddService.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\AddService.aspx.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\AddService.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\AddService.aspx.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\AddService.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:53:43.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Services.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Services.aspx.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\Services.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Services.aspx.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\Services.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:24:53.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppointmentManagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\AppointmentManagement.aspx.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\AppointmentManagement.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\AppointmentManagement.aspx.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\AppointmentManagement.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:29:30.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\AdminPages\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\AdminPages\\Login.aspx.designer.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\AdminPages\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:05:26.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Home.aspx.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:02:25.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\About.aspx.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\About.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\About.aspx.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\About.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:21:59.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Portfolio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Portfolio.aspx.cs",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Pages\\Portfolio.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Pages\\Portfolio.aspx.cs",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Pages\\Portfolio.aspx.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:44:31.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Web.config",
+              "RelativeDocumentMoniker": "WebNexus-UwUKitten\\Web.config",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Muhammad_Abdullah\\WebNexus-UwUKitten\\WebNexus-UwUKitten\\Web.config",
+              "RelativeToolTip": "WebNexus-UwUKitten\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-17T06:03:22.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
