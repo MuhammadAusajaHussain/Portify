@@ -15,6 +15,42 @@ namespace WebNexus_UwUKitten.AdminPages
     {
 
         /// <summary>
+        /// lnkDashboard control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink lnkDashboard;
+
+        /// <summary>
+        /// lnkProjectManagement control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink lnkProjectManagement;
+
+        /// <summary>
+        /// lnkServicesManagement control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink lnkServicesManagement;
+
+        /// <summary>
+        /// lnkAppointmentManagement control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink lnkAppointmentManagement;
+
+        /// <summary>
         /// form1 control.
         /// </summary>
         /// <remarks>

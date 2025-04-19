@@ -13,14 +13,14 @@
     <div class="bg-blue-800 p-3 shadow-md">
      <div class="flex justify-between items-center">
          <!-- Logo / Branding -->
-         <div class="text-white text-2xl font-semibold">WebNexus</div>
+         <div class="text-white text-2xl font-semibold tracking-wide">Portify - Admin</div>
 
          <!-- Navbar Links -->
-         <div class="flex space-x-6">
+         <div class="flex space-x-4">
              <asp:HyperLink ID="lnkDashboard" runat="server" CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" NavigateUrl="Dashboard.aspx">Dashboard</asp:HyperLink>
-             <asp:HyperLink ID="lnkProjectManagement" runat="server" CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" NavigateUrl="ProjectManagement.aspx">Project Management</asp:HyperLink>
-             <asp:HyperLink ID="lnkServicesManagement" runat="server" CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" NavigateUrl="ServicesManagement.aspx">Services Management</asp:HyperLink>
-             <asp:HyperLink ID="lnkAppointmentManagement" runat="server" CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" NavigateUrl="AppointmentManagement.aspx">Appointment Management</asp:HyperLink>
+             <asp:HyperLink ID="lnkProjectManagement" runat="server" CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" NavigateUrl="ProjectManagement.aspx">Projects</asp:HyperLink>
+             <asp:HyperLink ID="lnkServicesManagement" runat="server" CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" NavigateUrl="ServicesManagement.aspx">Services</asp:HyperLink>
+             <asp:HyperLink ID="lnkAppointmentManagement" runat="server" CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" NavigateUrl="AppointmentManagement.aspx">Appointments</asp:HyperLink>
          </div>
      </div>
  </div>
@@ -59,7 +59,7 @@
     <!-- Footer Start -->
     <div class="bg-gray-900 text-white p-4 mt-6 bottom-0 w-full fixed">
         <div class="flex justify-between text-center">
-            <p class="mb-2">&copy; <%: DateTime.Now.Year %> - WebNexus</p>
+            <p class="mb-2">&copy; <%: DateTime.Now.Year %> - Portify</p>
             <div class="flex justify-center space-x-4 text-sm">
                 <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" class="text-blue-400 hover:text-white transition">LinkedIn</a>
                 <a href="https://github.com/your-github" target="_blank" class="text-blue-400 hover:text-white transition">GitHub</a>

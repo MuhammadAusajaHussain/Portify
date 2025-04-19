@@ -41,8 +41,8 @@
     <div class="max-w-7xl mx-auto flex items-center justify-between">
         <!-- Logo -->
         <div class="flex items-center space-x-2">
-            <img src="<%= ResolveUrl("~/Images/logo.jpg") %>" alt="Logo" class="h-10 w-auto rounded shadow-md" />
-            <span class="text-white font-bold text-xl">WebNexus</span>
+            <img src="<%= ResolveUrl("~/Images/logo.png") %>" alt="Logo" class="h-10 w-auto rounded shadow-md" />
+            <span class="text-white font-bold text-xl tracking-wide">Portify</span>
         </div>
 
         <!-- Navigation Links -->
@@ -95,7 +95,7 @@
         <!-- FOOTER -->
         <div class="bg-gray-900 text-white p-4 px-6 mt-6 bottom-0 w-full h-[25vh]">
             <div class="flex justify-between text-center">
-                <p class="mb-2">&copy; <%: DateTime.Now.Year %> - WebNexus</p>
+                <p class="mb-2">&copy; <%: DateTime.Now.Year %> - Portify</p>
                 <div class="flex justify-center space-x-4 text-sm">
                     <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" class="text-blue-400 hover:text-white transition">LinkedIn</a>
                     <a href="https://github.com/your-github" target="_blank" class="text-blue-400 hover:text-white transition">GitHub</a>

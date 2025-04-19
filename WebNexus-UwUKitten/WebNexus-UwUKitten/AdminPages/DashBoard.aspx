@@ -11,7 +11,7 @@
     <form id="form1" runat="server">
         <!-- Navbar -->
         <div class="bg-blue-800 text-white p-4 shadow flex justify-between items-center">
-            <div class="text-xl font-semibold">WebNexus</div>
+            <div class="text-xl font-semibold tracking-wide">Portify - Admin</div>
             <div class="space-x-4">
                 <a href="Dashboard.aspx" class="hover:underline">Dashboard</a>
                 <a href="ProjectManagement.aspx" class="hover:underline">Projects</a>
@@ -51,7 +51,7 @@
         <!-- Footer -->
          <div class="bg-gray-900 text-white p-4 mt-6 bottom-0 w-full fixed">
      <div class="flex justify-between text-center">
-         <p class="mb-2">&copy; <%: DateTime.Now.Year %> - WebNexus</p>
+         <p class="mb-2">&copy; <%: DateTime.Now.Year %> - Portify</p>
          <div class="flex justify-center space-x-4 text-sm">
              <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" class="text-blue-400 hover:text-white transition">LinkedIn</a>
              <a href="https://github.com/your-github" target="_blank" class="text-blue-400 hover:text-white transition">GitHub</a>

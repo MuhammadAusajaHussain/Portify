@@ -8,7 +8,7 @@
     <p class="text-xl text-black mb-8">Transforming ideas into interactive, elegant solutions.</p>
     <div class="space-x-4">
         <asp:HyperLink NavigateUrl="~/Pages/Contact.aspx" CssClass="bg-blue-700 text-white px-6 py-3 rounded hover:bg-blue-800 transition" runat="server">Contact</asp:HyperLink>
-        <asp:HyperLink NavigateUrl="~/Images/resume.docx" CssClass="bg-gray-200 text-blue-700 px-6 py-3 rounded hover:bg-gray-300 transition" Target="_blank" runat="server">Download Resume</asp:HyperLink>
+        <asp:HyperLink NavigateUrl="~/Images/resume.docx" CssClass="bg-white text-blue-700 px-6 py-3 rounded hover:bg-gray-300 transition" Target="_blank" runat="server">Download Resume</asp:HyperLink>
     </div>
 </section>
 

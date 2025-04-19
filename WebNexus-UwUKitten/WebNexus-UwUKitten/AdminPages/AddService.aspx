@@ -12,13 +12,13 @@
     <!-- Navbar Start -->
     <nav class="bg-blue-800 p-4">
         <div class="max-w-7xl mx-auto flex items-center justify-between">
-            <div class="text-white font-bold text-2xl">WebNexus Admin</div>
-            <div class="space-x-6">
-                <a href="/Dashboard.aspx" class="text-white hover:text-gray-300">Dashboard</a>
-                <a href="/ServicesManagement.aspx" class="text-white hover:text-gray-300">Services</a>
-                <a href="/Appointments.aspx" class="text-white hover:text-gray-300">Appointments</a>
-                <a href="/Logout.aspx" class="text-white hover:text-gray-300">Logout</a>
-            </div>
+            <div class="text-white font-bold text-2xl tracking-wide">Portify - Admin</div>
+                    <div class="flex space-x-4">
+     <asp:HyperLink ID="lnkDashboard" runat="server" CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" NavigateUrl="Dashboard.aspx">Dashboard</asp:HyperLink>
+     <asp:HyperLink ID="lnkProjectManagement" runat="server" CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" NavigateUrl="ProjectManagement.aspx">Projects</asp:HyperLink>
+     <asp:HyperLink ID="lnkServicesManagement" runat="server" CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" NavigateUrl="ServicesManagement.aspx">Services</asp:HyperLink>
+     <asp:HyperLink ID="lnkAppointmentManagement" runat="server" CssClass="text-white hover:bg-blue-700 px-4 py-2 rounded transition" NavigateUrl="AppointmentManagement.aspx">Appointments</asp:HyperLink>
+ </div>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -59,7 +59,7 @@
     <!-- Footer Start -->
     <footer class="bg-blue-800 text-white p-4 mt-6">
         <div class="max-w-7xl mx-auto text-center">
-            <p>&copy; 2025 WebNexus. All Rights Reserved.</p>
+            <p>&copy; 2025 Portify. All Rights Reserved.</p>
         </div>
     </footer>
     <!-- Footer End -->
