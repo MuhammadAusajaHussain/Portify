@@ -1,7 +1,7 @@
 # Portify – DeyDay2025 Web-Nexus Competition
 
 **Team Members**  
-- Muhammad Abdullah  
+- Muhammad Abdullah (Team Leader)
 - Ammar Hyder  
 - Ausaja Hussain  
 
