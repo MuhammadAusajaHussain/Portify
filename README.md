@@ -5,14 +5,14 @@
 - Ammar Hyder  
 - Ausaja Hussain  
 
-## 🚀 Project Overview  
+## Project Overview  
 This project was developed for the **DeyDay2025 Web-Nexus Competition**, showcasing our team's full-stack web development skills. It includes a robust front end, dynamic backend features, and a connected SQL database.
 
-## 🔥 Key Features  
-- Responsive and modern user interface  
-- Backend built with **ASP.NET** for secure and scalable performance  
-- SQL database integration with essential tables and seed data  
-- Clean, modular code for easy maintenance and future scalability  
+## Tech Stack:
+- **Frontend:** HTML, Tailwind CSS, JavaScript
+- **Backend:** ASP.NET
+- **Database:** Microsoft SQL Server (Integrated via ADO.NET)
+- **Tools and IDE:** Visual Studio, SSMS, GitHub
 
 ## ⚙️ Getting Started  
 
