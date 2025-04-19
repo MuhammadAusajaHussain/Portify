@@ -40,3 +40,16 @@ Make sure you have the following installed:
 
 4. **Access the application**
 - Navigate to http://localhost:xxxx (replace xxxx with the port used by your app).
+
+## Project Gallery
+
+**Client Home Page**
+
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/595eb2f8-3ab9-42bf-b00b-74798daa5692" />
+
+**Admin Dashboard**
+![image](https://github.com/user-attachments/assets/ace77120-c8db-42a7-aad7-dd70a1546fe7)
+
+
+
+
