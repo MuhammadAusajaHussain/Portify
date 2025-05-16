@@ -26,8 +26,8 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/MuhammadAusajaHussain/Portify
+   cd Portify
    
 2. **Set up the database**
 - Open the database_script.sql file located in the root directory.
